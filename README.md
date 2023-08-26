@@ -48,4 +48,5 @@ fetch('url', {
 })
 
 
-![image](https://github.com/gadilaajaykumar/react-fetch-api/assets/115562722/d18472f8-8294-4b46-b0cc-9ea1eb3b4c95)
+![image](https://github.com/gadilaajaykumar/react-fetch-api/assets/115562722/1f7b5607-09ac-45ff-b0c5-f60049a3c4d9)
+
